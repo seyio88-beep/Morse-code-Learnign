@@ -1,0 +1,30 @@
+# Morse Code Symbols
+
+| Symbol | Morse Code |
+|----------|------------|
+| . (Period) | .-.-.- |
+| , (Comma) | --..-- |
+| ? (Question Mark) | ..--.. |
+| ! (Exclamation Mark) | -.-.-- |
+| : (Colon) | ---... |
+| ; (Semicolon) | -.-.-. |
+| / (Slash) | -..-. |
+| - (Hyphen) | -....- |
+| ( (Open Parenthesis) | -.--. |
+| ) (Close Parenthesis) | -.--.- |
+| " (Quotation Mark) | .-..-. |
+| @ (At Sign) | .--.-. |
+| = (Equals Sign) | -...- |
+| + (Plus Sign) | .-.-. |
+| ' (Apostrophe) | .----. |
+
+## Examples
+
+HELLO?
+.... . .-.. .-.. --- ..--..
+
+SOS!
+... --- ... -.-.--
+
+EMAIL@SITE
+. -- .- .. .-.. .--.-. ... .. - .
